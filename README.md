@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selim.
 - 👀 I’m interested in applied machine learning. 
-- 🌱 I’m currently learning to deploy ML models.
+- 🌱 I’m currently learning about large language models.
 - 💞️ I’m looking to collaborate on different machine learning and data science projects. 
 - 📫 How to reach me : selim.sahrane@gmail.com
 
